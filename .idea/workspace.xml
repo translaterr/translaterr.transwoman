@@ -1,11 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f505e48-a3cb-4af3-934e-23a0f7a78102" name="Default Changelist" comment="" />
+    <list default="true" id="1f505e48-a3cb-4af3-934e-23a0f7a78102" name="Default Changelist" comment="Changed to a create-react-app project">
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Applications/Applications.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Applications/Components/ApplicationsTable.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Applications/Pages/ApplicationsCreatePage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Applications/Pages/ApplicationsOverviewPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dashboard/Dashboard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Translations/Translations.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Shared/Components/Form/LanguageCodeSelector.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Shared/Components/Form/TenantSelector.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Shared/Components/Loader/FullPageLoader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Shared/Components/Loader/TopLoader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Shared/Components/Navigation/LeftNavigation.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Shared/Components/Navigation/TopNavigation.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Shared/Components/Navigation/_sharedNavigation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Shared/Containers/Main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Shared/Contexts/ApplicationsContext.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Shared/Contexts/HttpClientContext.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Shared/Contexts/LanguagesContext.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Shared/Contexts/LayoutContext.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Shared/Contexts/TenantsContext.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Shared/Models/ApplicationModel.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Shared/Models/LanguageModel.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Shared/Models/TenantModel.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Shared/Pages/TenantSelectionPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Shared/Providers/ApplicationsProvider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Shared/Providers/HttpClientProvider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Shared/Providers/LanguagesProvider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Shared/Providers/LayoutProvider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Shared/Providers/TenantsProvider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="tsconfig.json" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,8 +89,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Anders\Projects\translaterr\translaterr.transwoman\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="ts.external.directory.path" value="C:\Users\Anders\Projects\translaterr\translaterr.transwoman\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1f505e48-a3cb-4af3-934e-23a0f7a78102" name="Default Changelist" comment="" />
@@ -29,7 +104,70 @@
       <option name="presentableId" value="Default" />
       <updated>1603570692702</updated>
       <workItem from="1603570694556" duration="2000" />
+      <workItem from="1603570709399" duration="1866000" />
+      <workItem from="1603573509437" duration="14867000" />
+      <workItem from="1603657981989" duration="2716000" />
     </task>
+    <task id="LOCAL−00001" summary="Changed to a create-react-app project">
+      <created>1603570974096</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1603570974096</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed to a create-react-app project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed to a create-react-app project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="999" y="329" key="#TypeScript" timestamp="1603575084448">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="999" y="329" key="#TypeScript/3840.0.1920.1057/0.0.2560.1409@0.0.2560.1409" timestamp="1603575084448" />
+    <state x="1043" y="495" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603573742371">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="1043" y="495" key="#com.intellij.fileTypes.FileTypeChooser/3840.0.1920.1057/0.0.2560.1409@0.0.2560.1409" timestamp="1603573742371" />
+    <state x="1011" y="452" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603571251189">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="1011" y="452" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/3840.0.1920.1057/0.0.2560.1409@0.0.2560.1409" timestamp="1603571251189" />
+    <state x="1061" y="460" key="FileChooserDialogImpl" timestamp="1603574405666">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="1061" y="460" key="FileChooserDialogImpl/3840.0.1920.1057/0.0.2560.1409@0.0.2560.1409" timestamp="1603574405666" />
+    <state x="861" y="440" key="IDE.errors.dialog" timestamp="1603625421436">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="861" y="440" key="IDE.errors.dialog/3840.0.1920.1057/0.0.2560.1409@0.0.2560.1409" timestamp="1603625421436" />
+    <state x="1032" y="324" key="RollbackChangesDialog" timestamp="1603570927991">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="1032" y="324" key="RollbackChangesDialog/3840.0.1920.1057/0.0.2560.1409@0.0.2560.1409" timestamp="1603570927991" />
+    <state x="782" y="350" key="SettingsEditor" timestamp="1603574411433">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="782" y="350" key="SettingsEditor/3840.0.1920.1057/0.0.2560.1409@0.0.2560.1409" timestamp="1603574411433" />
+    <state x="943" y="318" width="672" height="678" key="search.everywhere.popup" timestamp="1603574384341">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="943" y="318" width="672" height="678" key="search.everywhere.popup/3840.0.1920.1057/0.0.2560.1409@0.0.2560.1409" timestamp="1603574384341" />
   </component>
 </project>
